@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on MERN stack projects  <br> I’m looking to collaborate on web development projects  <br> I’m looking for help with advanced backend & scalability  <br> I’m currently learning system design and performance optimization  <br> Ask me about MERN stack, frontend development, and APIs  <br> Fun fact: I enjoy building real-world projects and improving my coding skills every day 
+🎓 CSIT Graduate from Tribhuvan University  <br> 💼 Working as a Full Stack Developer <br> 🚀 Building scalable web applications using MERN Stack and Laravel  <br> 💬 Ask me about React, Next.js, Node.js, Express.js, MongoDB, Laravel, PHP, and REST APIs  <br> ⚡ Passionate about creating real-world solutions and improving my development skills through hands-on projects
 
 
 ## 🌐 Socials:
